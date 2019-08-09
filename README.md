@@ -1,5 +1,5 @@
 # HELLO-WORLD
 Just another repository
 
-Wlecome viewers,
+Welcome viewers,
 I am Kislaya, I like Android Development...
